@@ -1,0 +1,30 @@
+.about {
+  padding: 4rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #2575fc;
+}
+
+.team {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.team h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #2575fc;
+}
+
+.team p {
+  font-size: 1.1.rem;
+  color: #666;
+}
